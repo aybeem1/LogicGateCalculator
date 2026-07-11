@@ -33,6 +33,6 @@
 # Parts owned  
 74HC series
 - 12 NOT gates (74HC04)
-- 8 ANDd gates (74HC08)
+- 8 AND gates (74HC08)
 - 8 OR gates (74HC32)
 - All DIP switches
