@@ -3,12 +3,12 @@
 ****using CMOS chips for this project only*
 # Parts needed
 ## Adder/Subtractor Circuit
-- 6 not gates
-- 22 and gates
-- 20 xor gates
-- 2 dip switches (4 ins)
-- 8 or gates
-- 1 dip switch (1 in)
+- 6 NOT gates
+- 22 AND gates
+- 20 XOR gates
+- 2 DIP switches (4 ins)
+- 8 OR gates
+- 1 DIP switch (1 in)
 - 1 binary to BCD (atleast 5 bits)
 - 1 BCD to 7 seg (at least 1's and 10's place)
 - 2 7-seg displays (common cathode)
@@ -32,7 +32,7 @@
 
 # Parts owned  
 74HC series
-- 12 not gates (74HC04)
-- 8 and gates (74HC08)
-- 8 or gates (74HC32)
-- All dip switches
+- 12 NOT gates (74HC04)
+- 8 ANDd gates (74HC08)
+- 8 OR gates (74HC32)
+- All DIP switches
