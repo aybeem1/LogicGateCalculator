@@ -1,7 +1,3 @@
-[[EE]] [[planning]]
-Date: 2026-07-04
-Tags: #ee #planning
-
 ****using CMOS chips for this project only*
 # Parts needed
 ## Adder/Subtractor Circuit
