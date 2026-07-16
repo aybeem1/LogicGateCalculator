@@ -12,7 +12,7 @@ Tags: #ee #planning
 - 8 OR gates
 - 1 DIP switch (1 in)
 - 1 Binary to BCD (atleast 5 bits)
-- 1 BCD to 7 seg (at least 1's and 10's place)
+- 2 BCD to 7 seg 
 - 2 7-seg displays (common cathode)
 ## Array Multiplier
 ### 3 bit version
@@ -37,9 +37,21 @@ Tags: #ee #planning
 - 28 XOR gates
 - 28 OR gates 
 - 2 4 input DIP switched
+- 2 Binary to BCD
 - 4 7-seg displays (common cathode)
 - 4 BCD to 7-seg 
-
+## Total parts needed
+- 22 NOT gates 
+- 88 AND gates
+- 57 XOR gates
+- 39 OR gates
+- 4 Binary to BCD
+- 8 7 seg displays
+- 8 BCD to 7-seg
+## Total price
+$20.56 in parts 
+$14.84 in shipping 
+Total: $35.40
 # Parts owned  
 74HC series
 - 12 not gates (74HC04)
